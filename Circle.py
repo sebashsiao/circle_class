@@ -12,13 +12,5 @@ class Circle:
         return radius * 2
 
 
-
-
-# Instantiate class Circle()
+# instantiate class Circle()
 circle = Circle()
-
-print('Circumference =', circle.circumference(5))
-print('Area =', circle.area(5))
-print('Diameter =', circle.diameter(5))
-
-
