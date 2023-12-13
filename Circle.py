@@ -14,3 +14,6 @@ class Circle:
 
 # instantiate class Circle()
 circle = Circle()
+circumference = circle.circumference
+area = circle.area
+diameter = circle.diameter
